@@ -1,0 +1,46 @@
+@BasketService_HostAddress = http://localhost:8080
+
+### Create basket
+POST {{BasketService_HostAddress}}/baskets
+Content-Type: application/json
+Accept: application/json
+
+{}
+
+> {%
+    client.global.set("basketId", response.body.basket.basketId);
+%}
+
+### Add item
+POST {{BasketService_HostAddress}}/baskets/{{basketId}}/item
+Content-Type: application/json
+Accept: application/json
+
+{
+  "productId": "HAT",
+  "quantity": 2
+}
+
+> {%
+    client.global.set("itemId", response.body.basket.items[0].itemId);
+%}
+
+### Batch add items
+POST {{BasketService_HostAddress}}/baskets/{{basketId}}/items
+Content-Type: application/json
+Accept: application/json
+
+{
+  "items": [
+    { "productId": "HAT", "quantity": 1 },
+    { "productId": "SCARF", "quantity": 3 }
+  ]
+}
+
+> {%
+    client.global.set("itemId", response.body.basket.items[0].itemId);
+%}
+
+### Remove item
+DELETE {{BasketService_HostAddress}}/baskets/{{basketId}}/items/{{itemId}}
+Accept: application/json
