@@ -14,6 +14,7 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\ne
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\BasketService.Api.Tests.runtimeconfig.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\BasketService.Api.Tests.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\BasketService.Api.Tests.pdb
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Castle.Core.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\FluentValidation.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
@@ -26,6 +27,7 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\ne
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Moq.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\OneOf.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\xunit.assert.dll
@@ -103,11 +105,10 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\ne
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.AssemblyInfoInputs.cache
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.AssemblyInfo.cs
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.sourcelink.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketSe.F1953208.Up2Date
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\refint\BasketService.Api.Tests.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.pdb
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\BasketService.Api.Tests.genruntimeconfig.cache
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\obj\Debug\net10.0\ref\BasketService.Api.Tests.dll
-C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Castle.Core.dll
-C:\Users\Gurpal\RiderProjects\BasketService\BasketService.Api.Tests\bin\Debug\net10.0\Moq.dll

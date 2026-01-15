@@ -6,8 +6,11 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\BasketService.API.runtimeconfig.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\BasketService.API.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\BasketService.API.pdb
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\OneOf.dll
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.csproj.AssemblyReference.cache
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +19,7 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.csproj.CoreCompileInputs.cache
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.sourcelink.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -31,6 +35,3 @@ C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.pdb
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\BasketService.API.genruntimeconfig.cache
 C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\obj\Debug\net10.0\ref\BasketService.API.dll
-C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\FluentValidation.dll
-C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Gurpal\RiderProjects\BasketService\BasketService.API\bin\Debug\net10.0\OneOf.dll
